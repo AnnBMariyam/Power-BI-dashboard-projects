@@ -4,6 +4,16 @@
 This dashboard provides a high-level overview of hospital operations, focusing on patient volume, appointment efficiency, and revenue patterns. It helps hospital administrators identify high-load departments, understand payment trends, and monitor cancellation rates.
 
 ---
+## Data Source
+The dashboard uses hospital-related datasets including:
+- Patients
+- Doctors
+- Departments
+- Appointments
+- Billing
+- Medical Records
+  
+---
 
 ## Key Metrics
 - Total Patients
