@@ -29,6 +29,9 @@ The dashboard uses hospital-related datasets including:
 | Completed Appointments | Number of appointments marked as completed |
 | Total Doctors | Number of doctors represented in the dashboard data |
 | Total Revenue | Revenue recorded in billing data |
+| Cancellation Rate | Share of appointments that were cancelled |
+| Average Treatment Cost | Average treatment cost across records |
+
 
 ---
 
