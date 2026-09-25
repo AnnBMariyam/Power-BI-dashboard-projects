@@ -20,12 +20,17 @@ The dashboard uses hospital-related datasets including:
   
 ---
 
-## Key Metrics
-- Total Patients
-- Total Appointments
-- Total Revenue
-- Cancellation Rate
-- Average Treatment Cost
+## 📌 Key Metrics
+
+| Metric | What It Tracks |
+|---|---|
+| Total Patients | Overall patient volume |
+| Total Appointments | Appointment activity |
+| Total Revenue | Revenue recorded in billing data |
+| Cancellation Rate | Share of appointments that were cancelled |
+| Average Treatment Cost | Average treatment cost across records |
+
+---
 
 ---
 
