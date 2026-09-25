@@ -1,5 +1,13 @@
 # Hospital Analytics Dashboard (Power BI)
 
+## 📊 Dashboard Preview
+
+![Hospital Analytics Dashboard](images/hospital%20dashboard.png)
+
+---
+
+## Project Overview
+
 ## Project Overview
 This dashboard provides a high-level overview of hospital operations, focusing on patient volume, appointment efficiency, and revenue patterns. It helps hospital administrators identify high-load departments, understand payment trends, and monitor cancellation rates.
 
