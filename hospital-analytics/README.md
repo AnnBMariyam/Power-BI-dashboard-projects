@@ -7,8 +7,7 @@
 ---
 
 ## Project Overview
-This dashboard provides a high-level overview of hospital operations, focusing on patient volume, appointment efficiency, and revenue patterns. It helps hospital administrators identify high-load departments, understand payment trends, and monitor cancellation rates.
-
+This Power BI dashboard brings together hospital operations data across patients, appointments, departments, billing, and medical records. It summarizes patient volume, appointment activity, revenue, cancellation rates, and treatment costs, with visuals for department workload, payment methods, appointment status, and disease distribution.
 ---
 ## Data Source
 The dashboard uses hospital-related datasets including:
