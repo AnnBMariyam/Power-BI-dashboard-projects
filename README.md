@@ -1,4 +1,3 @@
-# Power-BI-dashboard-projects
 # Hospital Analytics Dashboard (Power BI)
 
 ## 📊 Dashboard Preview
