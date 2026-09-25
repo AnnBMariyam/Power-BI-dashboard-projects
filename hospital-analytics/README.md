@@ -44,6 +44,13 @@ The dashboard uses hospital-related datasets including:
 - **Oncology has the highest average treatment cost at $10.93K**, while Radiology has the lowest among the departments shown at **$9.68K**.
 
 ---
+## 📁 Power BI File
+
+[Open the Power BI project file](hospital_dashboard.pbix)
+
+> Requires Power BI Desktop to open the `.pbix` file.
+
+---
 
 ## Tools Used
 - Power BI Desktop
