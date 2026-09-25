@@ -32,7 +32,7 @@ The dashboard uses hospital-related datasets including:
 
 ---
 
----
+
 
 ## Visual Insights
 - Appointments by department highlight workload distribution
